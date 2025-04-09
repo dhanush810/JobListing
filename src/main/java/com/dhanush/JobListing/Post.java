@@ -19,10 +19,10 @@ public class Post {
 	public String getProfile() {
 		return profile;
 	}
-	public void setProfile(String profile) {
+	public void setProfile(String  profile) {
 		this.profile = profile;
 	}
-	public String getDesc() {
+	public String getDesc( ) {
 		return desc;
 	}
 	public void setDesc(String desc) {
